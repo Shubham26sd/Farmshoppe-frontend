@@ -30,17 +30,6 @@ Farmshoppe-frontend/
 └── README.md          # Project documentation
 ```
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Shubham26sd/Farmshoppe-frontend.git
-   ```
-
-2. Open `index.html` in your web browser - that's it!
-
-3. Or view the live demo on GitHub Pages
-
 ## 🌐 Live Demo
 
 Visit the live site: [FarmShoppe Frontend](https://shubham26sd.github.io/Farmshoppe-frontend/)
