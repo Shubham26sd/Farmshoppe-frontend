@@ -1,6 +1,6 @@
 # FarmShoppe Frontend
 
-A **simple** and modern frontend for FarmShoppe - an online grocery store specializing in fresh produce and healthy food items. This is a straightforward HTML/CSS project perfect for learning and showcasing basic web development skills.
+A **simple** and modern frontend for FarmShoppe - an online grocery store specializing in fresh produce and healthy food items. This is a straightforward HTML/CSS personal project.
 
 ## 🌟 Features
 
@@ -9,7 +9,6 @@ A **simple** and modern frontend for FarmShoppe - an online grocery store specia
 - **Fresh Produce Showcase**: Simple display of various vegetables and fruits
 - **Basic E-commerce Elements**: Shopping cart, product listings, and navigation
 - **Fast Loading**: Lightweight with optimized assets
-- **Beginner-Friendly**: Perfect for learning HTML and CSS fundamentals
 
 ## 🛠️ Technologies Used
 
@@ -46,18 +45,9 @@ Farmshoppe-frontend/
 
 Visit the live site: [FarmShoppe Frontend](https://shubham26sd.github.io/Farmshoppe-frontend/)
 
-## 📱 What You'll Learn
-
-This simple project demonstrates:
-- Basic HTML structure and semantics
-- CSS styling and layout techniques
-- Responsive design principles
-- Image optimization and organization
-- Clean code practices
-
 ## 🤝 Contributing
 
-This is a simple learning project - feel free to use it as a starting point for your own projects!
+Feel free to use this as a reference for your own projects!
 
 ## 📄 License
 
@@ -65,4 +55,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-**A simple, clean, and educational frontend project for fresh food lovers** 🥬 
+**A simple, clean frontend project for fresh food lovers** 🥬 
