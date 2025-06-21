@@ -45,10 +45,6 @@ Farmshoppe-frontend/
 
 Visit the live site: [FarmShoppe Frontend](https://shubham26sd.github.io/Farmshoppe-frontend/)
 
-## 🤝 Contributing
-
-Feel free to use this as a reference for your own projects!
-
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
